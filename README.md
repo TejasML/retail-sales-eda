@@ -37,6 +37,7 @@ The goal is to understand sales trends, customer behavior, and product category 
 ### **3️⃣ Daily Sales Trend**
 ![Daily Sales Trend](images/daily_sales_trend.png)
 
+
 ---
 
 ## 🧹 Steps Performed (EDA Workflow)
