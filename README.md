@@ -5,21 +5,19 @@ The goal is to understand sales trends, customer behavior, and product category 
 
 ---
 
-## 📁 Project Structure
-
 📦 retail-sales-eda
 │
 ├── 📂 dataset/
-│   ├── retail_sales_dataset.csv
-│   └── cleaned_sales.csv
+│ ├── retail_sales_dataset.csv
+│ └── cleaned_sales.csv
 │
 ├── 📂 notebook/
-│   └── EDA_On_Retail_seles_.ipynb
+│ └── EDA_On_Retail_seles_.ipynb
 │
 ├── 📂 images/
-│   ├── sales_by_gender.png
-│   ├── top_5_categories.png
-│   └── daily_sales_trend.png
+│ ├── sales_by_gender.png
+│ ├── top_5_categories.png
+│ └── daily_sales_trend.png
 │
 └── README.md
 
